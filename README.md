@@ -4,12 +4,12 @@
   </a>
  </h1>
 
-<p align="center">
-  <a href="https://github.com/F3RREIRA/ES4A4/blob/main/README.md#-repositório">Repositório</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<p align="center"> 
+  <a href="https://github.com/F3RREIRA/ES4A4/edit/main/README.md#%EF%B8%8F-reposit%C3%B3rio">Repositório</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-ifsp">IFSP</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-curso">Curso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-disciplina">Disciplina</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA/ES4A4/edit/main/README.md#%EF%B8%8F-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-publicação">Publicação</a>&nbsp;&nbsp;&nbsp;
  </p>
@@ -40,7 +40,7 @@ Esta capacitação é pautada pela valorização da autonomia do estudante, prá
 
 A disciplina Engenharia de Software IV aprofunda os conhecimentos em métodos ágeis de desenvolvimento de software, analisando suas vantagens, desvantagens e cenários de aplicação. Analisar e extrair métricas para projetos utilizando métodos ágeis. Conhecer e aplicar os principais métodos e técnicas de teste de software.
 
-## 💻 Projeto
+## 🗂️ Projeto
 
 Para acessar o repositório com os códigos fonte do projeto, basta clicar no link:
 
@@ -50,7 +50,7 @@ Para acessar o repositório com os códigos fonte do projeto, basta clicar no li
 
 
 
-## 🚀 Tecnologias
+## 💻 Tecnologias
 
 Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
 
