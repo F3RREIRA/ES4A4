@@ -5,13 +5,13 @@
  </h1>
 
 <p align="center">
-  <a href="https://github.com/F3RREIRA/DW2A4/blob/main/README.md#-repositório">Repositório</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA/ES4A4/blob/main/README.md#-repositório">Repositório</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-ifsp">IFSP</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-curso">Curso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-disciplina">Disciplina</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projetos">Projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-publicações">Publicações</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-publicação">Publicação</a>&nbsp;&nbsp;&nbsp;
  </p>
  
  <br>
@@ -59,7 +59,7 @@ Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
 - JavaScript
 - Java
 
-## 🌎 Publicações
+## 🌎 Publicação
 
 Para acessar e testar as funcionalidades da página criada, basta clicar na imagem:
 
