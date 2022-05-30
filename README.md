@@ -65,7 +65,7 @@ Para acessar e testar as funcionalidades da página criada, basta clicar na imag
 
 <p align="center">
   <a href="https://github.com/F3RREIRA/ES4A4">
-    <img alt="Comente Sobre" title="Comente Sobre" src="./Preview 1.png" width="400px" border-radius="3px">
+    <img alt="Comente Sobre" title="Comente Sobre" src="./src/imagens/Preview 1.png" width="400px" border-radius="3px">
   </a>
 
 ---
