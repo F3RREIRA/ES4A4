@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./src/css/style.css" />
     <title>Comente Sobre- By Sarturnianos</title>
 
 
@@ -12,9 +13,13 @@
 </head>
 
 <body>
-    <div class="header">
+    <header>
+        <img src="src/img/logo.png" alt="Logo Comente Sobre">
         <!titulo da pagina -->
-            <h1 id="titulo ">Comente sobre</h1>
+            <h1 class="sr-only" id="titulo ">Comente sobre</h1>
+    </header>
+
+    <div class="subtitulo">
             <p id="subtitulo"> Você está comentando sobre: </p>
             <br>
     </div>
@@ -22,16 +27,14 @@
     <div class="campo">
         <!Formularios-->
             <fieldset id="forms">
-                <input type="text" placeholder="Insira seu nome"></input>
-                <br>
-                <input type="text" placeholder="Insira seu o seu melhor e-mail"></input>
+                <input type="text" cols="50" placeholder="Insira seu o seu melhor e-mail"></input>
                 <br>
 
                 <textarea rows="6" cols="50" placeholder="Insira o seu comentario"></textarea>
 
             </fieldset>
             <br>
-            <a href="page1.html">
+            <a href="index.html">
                 <button type="submit">Trocar de assunto</button> </a>
             <a href="page3.html">
                 <button type="submit">Enviar comentário</button></a>
